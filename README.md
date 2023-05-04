@@ -13,7 +13,7 @@
 
 If you are a student completing this executable examination as part of a class
 at Allegheny College, you will need to modify the source code according to the
-instructions inside of the five Python source code files in the `source/`
+instructions inside of the ten Python source code files in the `source/`
 directory. If you have questions about this examination, please see the course
 instructor during the examination time period. You must read and carefully all
 of the instructions in this file before starting the executable examination.
@@ -59,9 +59,9 @@ this examination.
 ## Examination Overview
 
 - The examination is out of a total of 100 percent, with an automatically reported percentage.
-- You must provide answers to all these questions by typing in the five Python source code files
+- You must provide answers to all these questions by typing in the ten Python source code files
 - The final version of each Python source code file must be in your GitHub repository by the due date
-- You may run each of the five Python programs on your laptop by using the `python` command.
+- You may run each of the ten Python programs on your laptop by using the `python` command.
 - You cannot run `gatorgrade` on your laptop due to the encrypted `gatograde.yml` file.
 - The score for your examination is reported when a build takes place in GitHub Actions.
 - Unless you already made special arrangements with the instructor, no late work will be accepted
