@@ -64,7 +64,7 @@ def question_one_a():
 # --> The function must use a while loop to perform the computation
 # --> Note that it is not acceptable for the compute_square function
 #     to use the built-in multiplication operator in Python
-# For instance, if the function received the input of 100 it would
+# For instance, if the function received the input of 10 it would
 # return the output of 100, which is the value of 10 squared.
 
 def compute_square_for(value: int) -> int:
