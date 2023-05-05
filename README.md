@@ -30,7 +30,7 @@ while completing the examination.
 
 ## Examination Dates
 
-- **Examination Released**: 9:00 PM on Thursday, May 4, 2023
+- **Examination Released**: 9:00 AM on Thursday, May 4, 2023
 - **Examination Due**: 12:00 noon on Thursday, May 4, 2023
 
 **Please note that your access to the GitHub repository containing the
